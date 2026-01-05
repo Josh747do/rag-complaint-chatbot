@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environment
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Data
+data/raw/
+data/processed/
+
+# Vector stores
+vector_store/
+
+# Environment variables
+.env
+
+# OS
+.DS_Store
+Thumbs.db
